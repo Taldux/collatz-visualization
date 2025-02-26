@@ -8,7 +8,7 @@ The project calculates the Collatz sequence iterations for numbers from 1 to a d
 
 ## Dependencies
 
-- [ImGui](http://www.dearimgui.org/)
+- [ImGui](https://github.com/ocornut/imgui)
 - [ImPlot](https://github.com/epezent/implot)
 - [GLFW](https://www.glfw.org/)
 - OpenGL
