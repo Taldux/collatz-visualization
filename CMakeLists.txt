@@ -4,7 +4,7 @@ project(Collatz)
 set(CMAKE_CXX_STANDARD 20)
 
 # Define libraries directories
-set(GLFW_DIR "C:/glfw/glfw-3.4.bin.WIN64")
+set(GLFW_DIR "C:/glfw/glfw-3.4.bin.WIN64") # Change this to your GLFW directory
 set(IMGUI_DIR "${CMAKE_SOURCE_DIR}/external/imgui")
 set(IMPLOT_DIR "${CMAKE_SOURCE_DIR}/external/implot")
 
